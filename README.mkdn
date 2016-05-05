@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/ElTifo/android-mtk.git -b cm-13.0_Aquaris_E5_FHD
+    repo init -u git://github.com/ElTifo/android-mtk.git -b cm-13.0_Aquaris_E5_FHD (STILL W.I.P. - DO NOT USE)
 
 Then to sync up:
 
