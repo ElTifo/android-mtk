@@ -440,7 +440,7 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera2" name="ElTifo/android_packages_apps_Camera2-mtk" revision="cm-12.1-mt6592" />
+  <!-- <project path="packages/apps/Camera2" name="ElTifo/android_packages_apps_Camera2-mtk" revision="cm-12.1-mt6592" /> -->
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMBugReport" name="CyanogenMod/android_packages_apps_CMBugreport" />
@@ -471,6 +471,7 @@
   <project path="packages/apps/Settings" name="ElTifo/android_packages_apps_Settings-mtk" revision="cm-12.1-mt6592" />
   <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
+  <project path="packages/apps/Snap" name="ElTifo/android_packages_apps_Snap" revision="cm-12.1-mt6592" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
